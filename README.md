@@ -1,0 +1,2 @@
+# WinTerminal
+WindowsTerminal Scripts
